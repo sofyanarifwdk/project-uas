@@ -13,7 +13,7 @@
 
 
 <h5> Buat syntax program python </h5>
-<p> Membuat file program</p> daftar_nilai.py
+<h5> Membuat file program</h5> daftar_nilai.py
 
 
 
