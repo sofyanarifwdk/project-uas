@@ -9,7 +9,7 @@
     Dosen   : Agung Nugroho,S.Kom.,M.Kom.
     Soal Ujian Akhir Semester (UAS)
 
-<h2> Buat package dan modul dengan struktur </h2>
+<h5> Buat package dan modul dengan struktur </h5>
 
 
 
