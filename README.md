@@ -1,4 +1,4 @@
-##  ============= PROJECT UAS BAHASA PEMROGRAMAN ======================
+##                      PROJECT UAS BAHASA PEMROGRAMAN 
 
     Bahasa Pemrograman
     Teknik Informatika
