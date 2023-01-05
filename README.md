@@ -13,9 +13,10 @@
 
 
 <h5> Buat syntax program python </h5>
-"""
-Membuat file program : daftar_nilai.py
-"""
+    
+    """
+    Membuat file program : daftar_nilai.py
+    """
 
 
 
