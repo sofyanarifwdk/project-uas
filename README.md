@@ -1,4 +1,4 @@
-<h3>PROJECT UAS BAHASA PEMROGRAMAN </h3>
+# _**PROJECT UAS BAHASA PEMROGRAMAN**_
 
     Bahasa Pemrograman | Teknik Informatika | Universitas Pelita Bangsa
     ===================================================================
@@ -9,10 +9,10 @@
     Dosen   : Agung Nugroho,S.Kom.,M.Kom.
     Soal Ujian Akhir Semester (UAS)
 
-<h5> Buat package dan modul dengan struktur </h5>
+ Buat package dan modul dengan struktur 
 
 
-<h5> Buat syntax program python </h5>
+#   **Buat syntax program python**
     
 **Membuat file program : `daftar_nilai.py`**
 
