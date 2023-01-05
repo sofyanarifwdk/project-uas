@@ -12,5 +12,9 @@
 <h5> Buat package dan modul dengan struktur </h5>
 
 
+<h5> Buat syntax program python </h5>
+<p> Membuat file program</p> daftar_nilai.py
+
+
 
 
