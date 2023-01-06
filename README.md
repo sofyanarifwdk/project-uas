@@ -10,5 +10,5 @@
     Soal Ujian Akhir Semester (UAS)
 
 
-###   **Untuk penjelasan program berupa pdf silahkan kunjungi link berikut :**
-`[Modul Program Input Nilai Mahasiswa ]`https://drive.google.com/file/d/13khXhPCctXtU8Tkd6iSDnVW-B7OcimVH/view?usp=sharing
+###   **Untuk penjelasan program berupa pdf silahkan klik link berikut :**
+[Modul Program Input Data Mahasiswa](https://drive.google.com/file/d/13khXhPCctXtU8Tkd6iSDnVW-B7OcimVH/view?usp=sharing)
